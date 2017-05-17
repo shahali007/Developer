@@ -1,4 +1,4 @@
-# Developer
+# Sublime Text 3 Config
 
 For sublime text3
 --------------------
